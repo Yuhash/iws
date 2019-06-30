@@ -1,0 +1,86 @@
+variable,desc
+aspect,mean aspect
+slope,mean slope
+dem,mean dem
+cec_barren,barren
+cec_broadleaf,broadleaf
+cec_cropland,cropland
+cec_grassland,grassland
+cec_mixed_forest,mixed forest
+cec_needleleaf,needleleaf
+cec_shrubland,shrubland
+cec_urban,urban
+fwa_1,lakes  < 1 ha
+fwa_2,lakes  1-2 ha
+fwa_3,lakes  2-5 ha
+fwa_4,lakes  5-10 ha
+fwa_5,lakes  10 - 20 ha
+fwa_6,lakes  20 - 50 ha
+fwa_7,lakes  50 -100 ha
+fwa_8,lakes  > 100 ha
+fwa_10ha_less,lakes < less 10 ha
+fwa_10ha_more,lakes < 10 ha
+fwa_r,rivers
+fwa_w,wetlands
+shrcx_10less,lake perimeter to area index for lakes less than 10 ha
+shrcx_10plus,lake perimeter to area index for lakes greater than 10 ha
+str_1,total streamlength order 1
+str_2,total streamlength order 2
+str_3,total streamlength order 3
+str_4,total streamlength order 4
+str_5,total streamlength order 5
+str_6,total streamlength order 6
+str_7,total streamlength order 7
+str_8,total streamlength order 8
+str_9,total streamlength order 9
+str_all_1000,all streams
+str_m,stream order 4-6 combined
+str_s,stream orders 1-3 combined
+pa,protected areas
+alr,Agricultural Land Reserve
+dra_p,paved roads
+dra_u,unpaved roads
+bec_sz_txt,BEC subzone*
+bec_zn,BEC zone*
+norm_ahm,annual heat moisture index
+norm_bffp,beginning of the frost free period
+norm_cmd,cumulative moisture index
+norm_dd5,growing degree days over 5°C
+norm_dd18,degree days over 18
+norm_effp,end of the frost free period
+norm_map,mean annual precipitation
+norm_mat,mean annual temperature
+norm_mcmt,mean coldest month temperature
+norm_mwmt,mean warmest month temperature
+norm_shm,summer heat moisture index
+norm_pas,precipitation as snow
+norm_pas_sp,precipitation as snow in spring
+norm_pas_wt,precipitation as snow in winter
+mean_ahm,same as above but the mean average for study period
+mean_bffp,same as above but the mean average for study period
+mean_cmd,same as above but the mean average for study period
+mean_dd5,same as above but the mean average for study period
+mean_dd18,same as above but the mean average for study period
+mean_effp,same as above but the mean average for study period
+mean_map,same as above but the mean average for study period
+mean_mat,same as above but the mean average for study period
+mean_mcmt,same as above but the mean average for study period
+mean_mwmt,same as above but the mean average for study period
+mean_pas,same as above but the mean average for study period
+mean_pas_sp,same as above but the mean average for study period
+mean_pas_wt,same as above but the mean average for study period
+mean_shm,same as above but the mean average for study period
+ahm,same as above but annual
+bffp,same as above but annual
+cmd,same as above but annual
+dd5,same as above but annual
+dd18,same as above but annual
+effp,same as above but annual
+map,same as above but annual
+mat,same as above but annual
+mcmt,same as above but annual
+mwmt,same as above but annual
+shm,same as above but annual
+pas,same as above but annual
+pas_sp,same as above but annual
+pas_wt,same as above but annual
